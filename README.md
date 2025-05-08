@@ -1,9 +1,9 @@
-# PROJECTNAME
+# USB Rubber Ducky Payloads
 
 ## Objective
 [Brief Objective - Remove this afterwards]
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+The Penetration Test Lab project was motivated by the work of Hak5 and contributions from members of the GitHub community. This project aimed to create a controlled environment for simulating and detecting cyber-attacks. The main objective was to configure payloads on a Raspberry Pi Pico, deliver them through a USB interface, and evaluate their detection by Windows Defender and other AV tools. This hands-on approach was intended to enhance practical knowledge of network security, attack techniques, and defense mechanisms.
 
 ### Skills Learned
 [Bullet Points - Remove this afterwards]
