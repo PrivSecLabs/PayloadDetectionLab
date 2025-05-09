@@ -22,7 +22,7 @@ The Penetration Test Lab project was motivated by the work of Hak5 and contribut
 
 ## Raspberry Pi Pico Image
 
-
+![Image Alt](https://github.com/PrivSecLabs/PenetrationTestLab/blob/main/Pi%20Pico.png?raw=true)
 
 
 
