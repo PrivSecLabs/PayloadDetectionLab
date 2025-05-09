@@ -20,11 +20,11 @@ The Penetration Test Lab project was motivated by the work of Hak5 and contribut
 - Network analysis tools (such as Wireshark) for capturing and examining network traffic.
 - Examine memory dumps, Event Viewer logs, and Task Manager to identify and understand malicious processes.
 
-## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
+## Raspberry Pi Pico Image
 
-Every screenshot should have some text explaining what the screenshot is about.
 
-Example below.
 
-*Ref 1: Network Diagram*
+
+
+
+
