@@ -18,7 +18,7 @@ The Penetration Test Lab project was motivated by the work of Hak5 and contribut
 
 - Endpoint detection (such as LimaCharlie and Windows Defender) for detecting the execution of payloads.
 - Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Examine memory dumps, Event Viewer logs, and Task Manager to identify and understand malicious processes.
+- Memory dumps, Event Viewer logs, and Task Manager to identify and understand malicious processes.
 
 ## Raspberry Pi Pico Image
 
