@@ -26,5 +26,7 @@ The Penetration Test Lab project was motivated by the work of Hak5 and contribut
 
 ### Setup
 
+![Image Alt](https://github.com/PrivSecLabs/PenetrationTestLab/blob/main/REF%201%20PICO.png?raw=true)
+
 
 
