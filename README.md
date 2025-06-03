@@ -9,7 +9,7 @@ The Detection Test Lab project was motivated by the work of Hak5 and contributio
 
 
 - Advanced understanding of Powershell scripts and unathourized admin access.
-- Proficiency in analyzing and interpreting network logs.
+- Proficiency in analyzing and interpreting event logs.
 - Ability to generate and recognize attack signatures and patterns.
 - Enhanced knowledge of network protocols and security vulnerabilities.
 - Development of critical thinking and problem-solving skills in cybersecurity.
@@ -17,7 +17,7 @@ The Detection Test Lab project was motivated by the work of Hak5 and contributio
 ### Tools Used
 
 - Endpoint detection (such as LimaCharlie and Windows Defender) for detecting the execution of payloads.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
+- System process tools (such as Task manager and Sysmon) for capturing and examining system activity.
 - Memory dumps, Event Viewer logs, and Task Manager to identify and understand malicious processes.
 
 ## Raspberry Pi Pico Image
