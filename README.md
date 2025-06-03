@@ -32,5 +32,12 @@ The Detection Test Lab project was motivated by the work of Hak5 and contributio
 
 ![Image Alt](https://github.com/PrivSecLabs/PenetrationTestLab/blob/main/REF%203%20PICO.png?raw=true)
 
+![Image Alt](https://github.com/PrivSecLabs/PayloadDetectionLab/blob/main/REF%204%20PICO.png?raw=true)
 
+![Image Alt](https://github.com/PrivSecLabs/PayloadDetectionLab/blob/main/REF%205%20PICO.png?raw=true)
 
+![Image Alt](https://github.com/PrivSecLabs/PayloadDetectionLab/blob/main/REF%206%20PICO.png?raw=true)
+
+![Image Alt](https://github.com/PrivSecLabs/PayloadDetectionLab/blob/main/REF%207%20PICO.png?raw=true)
+
+![Image Alt](https://github.com/PrivSecLabs/PayloadDetectionLab/blob/main/REF%208%20PICO.png?raw=true)
